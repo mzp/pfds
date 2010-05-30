@@ -1,0 +1,8 @@
+*~
+*.cm[iox]
+*.omc
+*.o
+*.opt
+*-runner
+.omakedb
+.omakedb.lock
